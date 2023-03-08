@@ -8,7 +8,6 @@ package Modelo;
 /**
  * @author CHECHO
  */
-
 public class Pizza {
    
     //ATRIBUTOS DE INSTANCIA

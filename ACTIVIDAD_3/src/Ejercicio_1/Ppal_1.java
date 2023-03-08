@@ -7,7 +7,6 @@ import java.util.Scanner;
 /**
  * @author CHECHO
  */
-
 public class Ppal_1 {
     public static void main(String[] args) {
         
